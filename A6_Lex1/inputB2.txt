@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Test{
+    public static void main(String args[]){
+        System.out.println("Hello world");
+
+        int i =12;
+        if(i == 0){
+        	System.out.println("Zero");
+        }
+        else if(i>0){
+        	System.out.println("Positive");
+        }
+        else{
+        	System.out.println("Negative");
+        }
+    }
+}
